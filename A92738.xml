@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief advertisement concerning East-New-Jersey, in America.</title>
+            <author>Scot, George, d. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92738</idno>
+            <idno type="STC">Wing S2034A</idno>
+            <idno type="STC">ESTC R215637</idno>
+            <idno type="EEBO-CITATION">45097941</idno>
+            <idno type="OCLC">ocm 45097941</idno>
+            <idno type="VID">171516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief advertisement concerning East-New-Jersey, in America.</title>
+                  <author>Scot, George, d. 1685.</author>
+                  <author>Perth, James Drummond, Earl of, 1648-1716.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>John Reid?</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Author and imprint suggested by Wing.</note>
+                  <note>Includes text of a pass issued by the Earl of Perth to George Scot.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scot, George, d. 1685.</term>
+               <term>New Jersey --  Colonization.</term>
+               <term>New Jersey --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171516:1" rendition="simple:additions"/>
+            <pb facs="tcp:171516:1"/>
+            <pb facs="tcp:171516:2"/>
+            <pb facs="tcp:171516:2"/>
+            <head>A Brief ADVERTISEMENT, Concerning <hi>Eaſt-New-Jerſey,</hi> in <hi>AMERICA.</hi>
+            </head>
+            <p>THat whereas it hath upon ſolid grounds been by very Judicious Men, judged as well the Advantage of the Nation in general, as of the particular <g ref="char:V">Ʋ</g>ndertakers, to have an Intereſt in ſome of the <hi>Ame<g ref="char:EOLhyphen"/>rica</hi> Plantations; and that in Order to the promoting this Deſign: There went in <hi>July</hi> laſt, 1684. a Veſſel from <hi>Leith,</hi> with 160. <hi>Paſſengers,</hi> or thereby; an other from <hi>Montroſe</hi> with 130. to <hi>Eaſt-New-Jerſey,</hi> in which two Veſſels were ſome Gentlemen and Merchants, of very good Repute; the account of their ſafe Arrival in eight weeks after their parting from <hi>A<g ref="char:EOLhyphen"/>berdeen,</hi> and their ſeveral Opinions of that Countrey, all agreeing anent the Fertility, Pleaſantneſs, and Wholeſomneſs thereof, as being ſtored with all things neceſſar for the comfortable Accommodation and Life of Man, be<g ref="char:EOLhyphen"/>ing compared with former Relations of that Countrey, and both confirmed as Truth, by ſeveral Gentlemen and Merchants at preſent in <hi>Edinburgh,</hi> who have been there: The conſideration of this, as of the reaſonable conſti<g ref="char:EOLhyphen"/>tution of the Government; the Model whereof hath been fully peruſed and found ſatisfactory, hath ingaged many to pitch upon this Province of <hi>Eaſt-New-Jerſey,</hi> as the moſt proper ſeat for a Collony of this Nation; The ſame being a Climat agreeable to our Conſtitutions, and a place fit for Trade; and of great Security, being as it were, <hi>the Centre of the Engliſh Plantati<g ref="char:EOLhyphen"/>ons,</hi> and a place affording in plenty, all deſirable Accommodations.</p>
+            <p>And ſeeing the Approbation of theſe in Authority is abſolutlie requiſit, for countenancing and encouraging ſuch a Deſign, without which, it cannot be expected, that any ſuch Attempt can be made effectual; Mr. <hi>George Scot</hi> of <hi>Pitlochie</hi> reſolving to ſettle his Family in that place, hath procured the following, Paſs,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>By the Right Honourable Earl of <hi>Perth,</hi> Lord High Chan<g ref="char:EOLhyphen"/>cellour of <hi>Scotland, &amp;c.</hi>
+                        </head>
+                        <p>Theſe are permitting, and allowing Mr. <hi>George Scot</hi> of <hi>Pitlochie,</hi>
+                           <pb facs="tcp:171516:3"/> with his Lady, Children, and Family; and ſuch other Perſons as he ſhall ingage to paſſe from this Kingdom, either by Sea or Land, to any of His <hi>Majeſties</hi> Forraigne Plantations, providing ſuch per<g ref="char:EOLhyphen"/>ſons to be tranſported by him, be not declared Traitors, Re<g ref="char:EOLhyphen"/>bels, Fugitives; and that without any Let, Impediment, or Mole<g ref="char:EOLhyphen"/>ſtation, from any perſon whatſoever; they alwayes behaving themſelves peaceably, and according to Law.</p>
+                        <closer>
+                           <dateline>Given at <hi>Edinburgh</hi> 
+                              <date>the firſt of <hi>January,</hi> 1685.</date>
+                           </dateline> For all Magiſtrates, Officers, and Souldiers within the Kingdom of <hi>Scotland,</hi> whom theſe do or may concern. <signed>PERTH, Cancell.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By the peruſual of the foreſaid Paſſe, it will appear that ſuch who intend to be concerned with the ſaid Mr. <hi>George Scot,</hi> in proſecuting this Deſign, are hereby included as well as himſelf, they being qualified accord<g ref="char:EOLhyphen"/>ing to the contents thereof.</p>
+            <p>And for his further encouragement, the Lords of His Majeſties Privy Council have been pleaſed by an Act, to condeſcend, <hi>That ſuch as are un<g ref="char:EOLhyphen"/>der Bond, to compear before them when called, ſhal have up their ſaid reſpective Bonds, upon their going with him;</hi> Whereby they are ſe<g ref="char:EOLhyphen"/>cured from the Apprehenſion of any Proceſs to be in their abſence, intented a<g ref="char:EOLhyphen"/>gainſt them upon that head.</p>
+            <p>Whereas there are ſeveral people in this Kingdom, who upon accompt of their not going that length, in conformity required of them, by the Law do live very uneaſie; Who beſide the other agreeable Accommodations of that place, may there freely enjoy their own principles, without hazard or the leaſt trouble; ſeeing there are Miniſters of their own perſwaſion going alongſt with the ſaid Mr. <hi>George Scot,</hi> who by the fundamental Conſtitutions of that Countrey, are allowed the free Exerciſe of their Miniſtry, ſuch as Mr. <hi>Archibald Riddel,</hi> brother to ſir <hi>John Riddel</hi> of <hi>Riddel,</hi> Mr. <hi>Thomas Paterſon</hi> late Miniſter of <hi>Borthwick,</hi> and ſeveral other Miniſters. It is hereby ſig<g ref="char:EOLhyphen"/>nified
+<pb facs="tcp:171516:3"/>to all who deſire this Voyage, That the <hi>Henry and Francis of New<g ref="char:EOLhyphen"/>caſtle,</hi> a ſhip of 350. <hi>Tun,</hi> and 20. <hi>great Guns; Richard Hutton</hi> Maſter, is freighted for the Tranſportation of them Families, and will take in Paſsengers and Goods at <hi>Leith,</hi> and take in Goods and Paſſengers at <hi>Mon<g ref="char:EOLhyphen"/>troſe,</hi> and <hi>Aberdeen,</hi> and <hi>Kirkwa</hi> in <hi>Orknay,</hi> and ſet ſail thence for <hi>Eaſt-New-Jerſey,</hi> againſt the 20. day of <hi>June, GOD</hi> willing. It be<g ref="char:EOLhyphen"/>ing reſolved by theſe concerned in the freight of the Veſſel, to Accommodate ſuch other Paſſengers as may be conveniently done, without crouding them<g ref="char:EOLhyphen"/>ſelves, and their Families; the inconveniencies of which they are fullie reſol<g ref="char:EOLhyphen"/>ved to avoid; as what is certainly very troubleſome in ſuch a Voyage. Such therefore who deſires to go Paſſengers in this Veſſel, may apply in time, be<g ref="char:EOLhyphen"/>tween and the 12. of <hi>May,</hi> to Mr. <hi>George Scot</hi> of <hi>Pitlochie,</hi> at his Lodg<g ref="char:EOLhyphen"/>ing in <hi>Bailie Robiſons-land;</hi> and at <hi>John Johnſtouns</hi> Drogiſt, at the ſign of the <hi>Unicorn</hi> in <hi>Edinburgh,</hi> to Mr. <hi>John Gordon</hi> of <hi>Colinſton</hi> Doctor of <hi>Phyſick,</hi> at his Lodging in <hi>Montroſe;</hi> to <hi>James Armour</hi> Younger Merchant in <hi>Glaſgow;</hi> To <hi>Heugh Broun,</hi> or <hi>James Nisbet Merchant</hi> in <hi>Irvine;</hi> To Bailie <hi>Boyd</hi> in Kilmarnock; To Bailie <hi>Ma'k<g ref="char:EOLhyphen"/>euen;</hi> or <hi>Ralph Holland</hi> Merchant in <hi>Air;</hi> To Bailie <hi>Burt</hi> in <hi>Stirling;</hi> To Bailie <hi>James Gordon</hi> in <hi>Kirkcudbright, William Corbet</hi> Apothecary in <hi>Drumfries,</hi> To ſir <hi>Robert Hamilton</hi> at <hi>Dubline,</hi> one of His <hi>Majeſties</hi> Privy Councilfor the Kingdom of <hi>Ireland;</hi> To <hi>Andrew Maxwel, Thomas Loch,</hi> and <hi>James Stuart</hi> Merchants in <hi>Belfaſt,</hi> in that Kingdom; and <hi>David Sherwood,</hi> at the Black Eagle, in New-Caſtle; <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> in <hi>Berwick;</hi> whereby they may have their paſſage ſecured upon Reaſonabble Conditions in the ſaid Veſſel; And Accompts of the Prepoſitions to be made to them, in Order to the promoting effectually of that Deſign, ſeeing after the number condeſcend<g ref="char:EOLhyphen"/>ed upon, as proper to be carried without Croud in the ſaid Ship; there will be no more admitted there; and ſo ſuch as incline to go the Voyage, may loſs their paſſage in the ſaid Veſsel, delaying to ſecure their place in time.</p>
+            <p>In hath been judged proper for the more full Information of ſuch as intend to be concerned in this Deſign, to make publick ſome of the many Letters come from <hi>Eaſt-New-Jerſey,</hi> that are known to be ſent from Perſons of good Cre<g ref="char:EOLhyphen"/>dit; and therefore are to be truſted; which is publiſhed by the Proprietors, and Printed by <hi>John Reid, 1685.</hi> in <hi>Edinburgh,</hi> And who are deſirous may have them there.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171516:4" rendition="simple:additions"/>
+            <pb facs="tcp:171516:4" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
